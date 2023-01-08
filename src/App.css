@@ -42,9 +42,6 @@
   margin-left: 22px;
 }
 
-.units:hover {
-  text-decoration: none;
-}
 .units {
   position: relative;
   font-size: 20px;
