@@ -33,7 +33,6 @@
   font-size: 64px;
   font-weight: 400;
   line-height: 1;
-  margin-top: 5px;
 }
 
 .weather-icon {
@@ -43,8 +42,13 @@
   margin-left: 22px;
 }
 
+.units:hover {
+  text-decoration: none;
+}
 .units {
   position: relative;
+  font-size: 20px;
+  
 }
 
 .search-form {
