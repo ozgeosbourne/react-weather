@@ -4,6 +4,7 @@
 
 .weather-app h1 {
   margin: 0 12px;
+  
 }
 
 .weather-app ul {
@@ -18,12 +19,13 @@
 }
 
 .weather-app {
-  border: 1px solid #272142;
+  border: 1px solid #2580b3;
   padding: 15px;
   margin: 20px auto;
   max-width: 650px;
   border-radius: 10px;
   background: linear-gradient(-225deg, #cbbacc 0%, #2580b3 100%);
+  box-shadow: 5px 10px 5px #DEDEDE;
 }
 
 .temperature {

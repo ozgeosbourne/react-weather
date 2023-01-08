@@ -56,11 +56,6 @@ export default function Weather(props) {
               className="form-control btn btn-dark"
             />
           </div>
-          <div className="col-3">
-            <button className="btn btn-success w-100" id="current-button">
-              Current
-            </button>
-          </div>
         </div>
       </form>
       <WeatherInfo data={weatherData} />
