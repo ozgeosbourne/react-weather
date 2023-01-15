@@ -1,5 +1,7 @@
 .WeatherForecast {
     text-align: center;
+    background-color: #8FA3C1;
+    border-radius: 10px;
 }
 
 .forecast-min {

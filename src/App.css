@@ -24,7 +24,7 @@
   margin: 30px auto;
   max-width: 650px;
   border-radius: 10px;
-  background: linear-gradient(-225deg, #cbbacc 0%, #2580b3 100%);
+  background: linear-gradient(-190deg, #cbbacc 5%, #2580b3 100%);
   box-shadow: 5px 12px 10px #DEDEDE;
 }
 
@@ -33,6 +33,7 @@
   font-size: 64px;
   font-weight: 400;
   line-height: 1;
+  margin-left: 8px;
 }
 
 .weather-icon {
@@ -44,7 +45,7 @@
 
 .units {
   position: relative;
-  font-size: 20px;
+  font-size: 18px;
   
 }
 
