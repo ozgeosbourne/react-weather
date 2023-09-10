@@ -11,7 +11,7 @@ function App() {
       <p className="footer">
         <a href="https://github.com/ozgeosbourne/react-weather">
           Open source-code </a
-        >by Özge Yaşar 🌱
+        >by Özge N. Yaşar 🌱
       </p>
     </footer>
     </div>
